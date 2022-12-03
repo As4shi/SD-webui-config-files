@@ -78,7 +78,7 @@
     "js_modal_lightbox": true,
     "js_modal_lightbox_initially_zoomed": true,
     "show_progress_in_title": true,
-    "hide_samplers": ["Euler", "LMS", "Heun", "DPM2", "DPM++ 2M", "LMS Karras", "DPM2 karras", "DDIM", "PLMS"],
+    "hide_samplers": ["Euler", "LMS", "Heun", "DPM2", "DPM++ 2M", "LMS Karras", "DPM2 karras", "DDIM", "PLMS", "DPM2 a", "DPM++ 2S a", "DPM fast", "DPM adaptive", "DPM2 Karras", "DPM2 a Karras"],
     "eta_ddim": 0,
     "eta_ancestral": 1,
     "ddim_discretize": "uniform",
