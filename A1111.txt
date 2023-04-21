@@ -1,0 +1,6 @@
+https://github.com/TheLastBen/fast-stable-diffusion/raw/c1d5181a444ca8cbeeb4765c2a1b8e1b824533e8/Dependencies/zstd_1.4.4+dfsg-3ubuntu0.1_amd64.deb
+https://huggingface.co/TheLastBen/dependencies/resolve/2b599eff43b41600459c17e473b3880b5f692528/sd.tar.zst
+https://huggingface.co/TheLastBen/dependencies/resolve/2b599eff43b41600459c17e473b3880b5f692528/gcolab.tar.zst
+https://github.com/TheLastBen/fast-stable-diffusion/raw/c1d5181a444ca8cbeeb4765c2a1b8e1b824533e8/Dependencies/1libunwind-dev_1.2.1-9build1_amd64.deb
+https://github.com/TheLastBen/fast-stable-diffusion/raw/c1d5181a444ca8cbeeb4765c2a1b8e1b824533e8/Dependencies/google-perftools_2.5-2.2ubuntu3_all.deb
+https://github.com/TheLastBen/fast-stable-diffusion/raw/c1d5181a444ca8cbeeb4765c2a1b8e1b824533e8/Dependencies/libgoogle-perftools-dev_2.5-2.2ubuntu3_amd64.deb
